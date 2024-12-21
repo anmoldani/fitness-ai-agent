@@ -4,4 +4,4 @@ streamlit==1.40.2
 phi
 openai
 google-cloud-aiplatform
-streamli
+streamlit
